@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.one {
+  animation-delay: 0.3s;
+}
+.two {
+  animation-delay: 0.4s;
+}
+.three {
+  animation-delay: 0.5s;
+}
