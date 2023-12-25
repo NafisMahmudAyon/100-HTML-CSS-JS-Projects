@@ -554,20 +554,12 @@ video {
   position: relative;
 }
 
-.bottom-0 {
-  bottom: 0px;
-}
-
-.right-0 {
-  right: 0px;
+.left-0 {
+  left: 0px;
 }
 
 .top-0 {
   top: 0px;
-}
-
-.left-0 {
-  left: 0px;
 }
 
 .-z-10 {
@@ -592,10 +584,6 @@ video {
 
 .h-\[100dvh\] {
   height: 100dvh;
-}
-
-.h-\[\] {
-  height: ;
 }
 
 .w-full {
